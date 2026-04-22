@@ -98,13 +98,15 @@ strategy-intel/
 - 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — cognitive router
 - ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — execution system
 - 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system
-- ⚔️ **strategy-intel** — strategic analysis (this repo)
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — strategic analysis
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — personal alignment
 
-The 4 skills answer different questions:
+The 5 answer different questions:
 - `thinking-os` — **WHAT** to do (thinking frame)
 - `execution-os` — **HOW** to do it (cadence)
 - `learning-os` — **HOW TO LEARN** it (skill building)
 - `strategy-intel` — **WHERE & AGAINST WHOM** to do it (positioning)
+- `alignment-os` — **WHY** do it (life/values coherence)
 
 ## Limitations
 
